@@ -1,0 +1,3 @@
+[submodule "sentalizer"]
+	path = sentalizer
+	url = https://github.com/davidnuno-es/sentiment-analyzer
